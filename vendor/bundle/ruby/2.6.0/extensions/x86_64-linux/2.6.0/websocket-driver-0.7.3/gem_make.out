@@ -1,0 +1,15 @@
+current directory: /home/waluka/Development/code/Phase-04/Rails/7-Cookies and Sessions/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.6.1/bin/ruby -I /usr/share/rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210911-6911-1d6vxqy.rb extconf.rb
+creating Makefile
+
+current directory: /home/waluka/Development/code/Phase-04/Rails/7-Cookies and Sessions/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/waluka/Development/code/Phase-04/Rails/7-Cookies and Sessions/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/waluka/Development/code/Phase-04/Rails/7-Cookies and Sessions/phase-4-authorizing-requests-lab/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= install
+/bin/install -m 0755 websocket_mask.so ./.gem.20210911-6911-pnmtm6
